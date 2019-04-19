@@ -1,0 +1,14 @@
+C:\Users\Erik\Documents\Erik\CustomersWebService\CustomerWebService\CustomerWebService\obj\Debug\netcoreapp2.1\CustomerWebService.csprojAssemblyReference.cache
+C:\Users\Erik\Documents\Erik\CustomersWebService\CustomerWebService\CustomerWebService\obj\Debug\netcoreapp2.1\CustomerWebService.csproj.CoreCompileInputs.cache
+C:\Users\Erik\Documents\Erik\CustomersWebService\CustomerWebService\CustomerWebService\obj\Debug\netcoreapp2.1\CustomerWebService.RazorAssemblyInfo.cache
+C:\Users\Erik\Documents\Erik\CustomersWebService\CustomerWebService\CustomerWebService\obj\Debug\netcoreapp2.1\CustomerWebService.RazorAssemblyInfo.cs
+C:\Users\Erik\Documents\Erik\CustomersWebService\CustomerWebService\CustomerWebService\obj\Debug\netcoreapp2.1\CustomerWebService.AssemblyInfoInputs.cache
+C:\Users\Erik\Documents\Erik\CustomersWebService\CustomerWebService\CustomerWebService\obj\Debug\netcoreapp2.1\CustomerWebService.AssemblyInfo.cs
+C:\Users\Erik\Documents\Erik\CustomersWebService\CustomerWebService\CustomerWebService\bin\Debug\netcoreapp2.1\CustomerWebService.deps.json
+C:\Users\Erik\Documents\Erik\CustomersWebService\CustomerWebService\CustomerWebService\bin\Debug\netcoreapp2.1\CustomerWebService.runtimeconfig.json
+C:\Users\Erik\Documents\Erik\CustomersWebService\CustomerWebService\CustomerWebService\bin\Debug\netcoreapp2.1\CustomerWebService.runtimeconfig.dev.json
+C:\Users\Erik\Documents\Erik\CustomersWebService\CustomerWebService\CustomerWebService\bin\Debug\netcoreapp2.1\CustomerWebService.dll
+C:\Users\Erik\Documents\Erik\CustomersWebService\CustomerWebService\CustomerWebService\obj\Debug\netcoreapp2.1\CustomerWebService.RazorTargetAssemblyInfo.cache
+C:\Users\Erik\Documents\Erik\CustomersWebService\CustomerWebService\CustomerWebService\bin\Debug\netcoreapp2.1\CustomerWebService.pdb
+C:\Users\Erik\Documents\Erik\CustomersWebService\CustomerWebService\CustomerWebService\obj\Debug\netcoreapp2.1\CustomerWebService.dll
+C:\Users\Erik\Documents\Erik\CustomersWebService\CustomerWebService\CustomerWebService\obj\Debug\netcoreapp2.1\CustomerWebService.pdb
